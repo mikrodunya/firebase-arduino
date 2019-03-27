@@ -1,4 +1,5 @@
 # FirebaseArduino
+Her şeyi son sürümdür. Mikrodunya tarafından düzenlenmiştir. ÇAlışır halşdedir ve hatalarından arındırılmıştır.
 
 [![Build Status](https://travis-ci.org/firebase/firebase-arduino.svg?branch=master)](https://travis-ci.org/firebase/firebase-arduino)
 [![Join the chat at https://gitter.im/googlesamples/firebase-arduino](https://badges.gitter.im/googlesamples/firebase-arduino.svg)](https://gitter.im/googlesamples/firebase-arduino?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
